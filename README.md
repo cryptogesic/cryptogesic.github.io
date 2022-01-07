@@ -2,6 +2,7 @@ Biogesic is used and trusted for headache and fever relief. It can be consumed o
 
 
 Contract Address: 0x5cf98281EAaA7a0C332B3515b274739ed92B1849
+
 Total Supply: 100,000
 
 #AlagangBiogesic
