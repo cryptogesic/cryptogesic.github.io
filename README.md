@@ -1,0 +1,1 @@
+Biogesic is used and trusted for headache and fever relief. It can be consumed on an empty stomach, and can be taken by pregnant women, breastfeeding moms and the elderly. Biogesic has been caring for Filipinos for over 50 years. #AlagangBiogesic
