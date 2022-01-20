@@ -15,5 +15,7 @@ Benswap Ranch: https://benswap.cash/ranches?ranch=0xbF3c9b65817aAd456577c444c3b9
 
 DexScreener: https://dexscreener.com/smartbch/0x3992d8bcf50c8ce040cdd585ded2c5ed7684524a
 
+Liquidity Pair Information: https://info.benswap.cash/pair/0x3992d8bcf50c8ce040cdd585ded2c5ed7684524a
+
 
 #AlagangBiogesic
