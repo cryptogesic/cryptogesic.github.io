@@ -9,22 +9,16 @@ BCHBiogesic Token Specifications
 Contract Address: 0x5cf98281EAaA7a0C332B3515b274739ed92B1849
 
 Type: SEP20
-
 Token Decimals: 18
-
 Total Supply on Chain: 100,000
-
 Additional token mints possible: No
-
 Token burning: Yes - specifics will be voted upon by Biogesic holders
 
 
 BCHBiogesic Tokenomics
 
-50% of the supply will be distributed to the liquidity providers via Benswap Ranch. Each liquidity provider receives a share of the weekly distribution - which is proportional to his or her share in the liquidity pool.
-
-25% of the supply is destined to be distributed via airdrops, contests or donations. A fraction of these 25% can be permanently removed from the supply via coin burning.
-
+50% of the supply will be distributed to the liquidity providers via Benswap Ranch. Each liquidity provider receives a share of the token with 0.005 biogesic/block in the Eben-Biogesic ranch pool.
+25% of the supply is to be distributed via airdrops, contests or donations. A fraction of these 25% can be permanently removed from the supply via coin burning.
 The remaining 25% of the supply will be used by the BCHBiogesic project to contribute to its evolution.
 
 
