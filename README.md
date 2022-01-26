@@ -6,6 +6,8 @@ Cryptogesic Token Specifications
 
 Contract Address: 0x5E6A4DA7Ed44bb4F1a06A2909a44Cd0824A21919
 
+Symbol: RX
+
 Type: SEP20
 
 Token Decimals: 18
