@@ -36,14 +36,15 @@ Telegram Group: https://t.me/Cryptogesic
 
 Twitter: https://twitter.com/Cryptogesic
 
-Benswap Ranch: https://benswap.cash/ranches?ranch=0xbF3c9b65817aAd456577c444c3b95Cc73dB98307
+Get RX/EBEN Liquidity: https://dex.benswap.cash/#/add/0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B/0x5E6A4DA7Ed44bb4F1a06A2909a44Cd0824A21919
 
-DexScreener: https://dexscreener.com/smartbch/0x3992d8bcf50c8ce040cdd585ded2c5ed7684524a
+Benswap RX/EBEN Ranch: https://benswap.cash/ranches?ranch=0x02Bb72406029765A7EB2A0D69d482573BA225d34
 
-Liquidity Pair Information: https://info.benswap.cash/pair/0x3992d8bcf50c8ce040cdd585ded2c5ed7684524a
+Liquidity Pair Information: (RX/EBEN) https://info.benswap.cash/pair/0x5ec1dcc0d26c466147a1b13d9d53464dbbb16f3c
+
+DexScreener: (RX/EBEN) https://dexscreener.com/smartbch/0x5ec1dcc0d26c466147a1b13d9d53464dbbb16f3c
 
 GitHub: https://github.com/cryptogesic/
-
 
 
 #Upgraded
