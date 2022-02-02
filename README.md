@@ -2,6 +2,8 @@ The main purpose of this token is to become an additional source of fund to buy 
 People need funds to support their families especially in this time of pandemic. 
 
 
+See Whitepaper: https://cryptogesic.gitbook.io/cryptogesic/
+
 Cryptogesic Token Specifications
 
 Contract Address: 0x5E6A4DA7Ed44bb4F1a06A2909a44Cd0824A21919
