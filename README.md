@@ -39,17 +39,22 @@ Cryptogesic [Whitepaper:](https://cryptogesic.gitbook.io/cryptogesic/)
   - [RX-FlexUSD](https://info.benswap.cash/pair/0x8fd5a6a735b20b38480b6ab5cf48fefa3594d028)  
 
 ## Liquidity Pairs
+- [RX-1BCH](https://1bch.com/add/0x77d4b6e44a53bBdA9a1D156B32Bb53A2D099e53D/0x5E6A4DA7Ed44bb4F1a06A2909a44Cd0824A21919) NEW!
 - [RX-EBEN](https://dex.benswap.cash/#/add/0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B/0x5E6A4DA7Ed44bb4F1a06A2909a44Cd0824A21919)
 - [RX-BCH](https://dex.benswap.cash/#/add/0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04/0x5E6A4DA7Ed44bb4F1a06A2909a44Cd0824A21919)
 - [RX-FlexUSD](https://dex.benswap.cash/#/add/0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72/0x5E6A4DA7Ed44bb4F1a06A2909a44Cd0824A21919) 
 
-
 ## Development team
 
+- `Website:` [Cryptogesic](https://cryptogesic.bch.is/)
 - `Website:` [Cryptogesic](https://cryptogesic.github.io/)
 - `Telegram Group:` [@Cryptogesic](https://t.me/Cryptogesic)
 - `Twitter:` [@Cryptogesic](https://twitter.com/Cryptogesic)
 - `GitHub:` [Cryptogesic](https://github.com/cryptogesic/)
+
+## Tools / Utilities
+
+- `Airdrop Tool:` [ERC20 Airdrop](https://cryptogesic-util-airdrop.vercel.app/) NEW!
 
 
 #Upgraded
