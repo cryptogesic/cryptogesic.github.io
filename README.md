@@ -34,6 +34,7 @@ Cryptogesic [Whitepaper:](https://cryptogesic.gitbook.io/cryptogesic/)
   - Mistswap [RX-BCH](https://dexscreener.com/smartbch/0xf57eeb2ce4079dfdd31a20c2000d05a5a9875df2)
 
 - Benswap Chart
+  - [1BCH DEX](https://1bch.com/info/pool/0xF29A040B03C87b21888e7E8f691aaA497788de0C) NEW!
   - [RX-EBEN](https://info.benswap.cash/pair/0x5ec1dcc0d26c466147a1b13d9d53464dbbb16f3c)
   - [RX-BCH](https://info.benswap.cash/pair/0x85b4b7f3824ebf486171817f7798397da2d8a51c)
   - [RX-FlexUSD](https://info.benswap.cash/pair/0x8fd5a6a735b20b38480b6ab5cf48fefa3594d028)  
